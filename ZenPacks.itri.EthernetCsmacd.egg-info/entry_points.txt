@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.itri.EthernetCsmacd = ZenPacks.itri.EthernetCsmacd
+
